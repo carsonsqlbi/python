@@ -21,5 +21,5 @@ print(s3)
 # del(dic["apple"])
 # print(dic)
 
-dic={x:x*2 for x in [3,4,5]}
+dic = {x: x*2 for x in [3, 4, 5]}
 print(dic)
